@@ -1,1 +1,1 @@
-My dirctory readme
+My dirctory readme updated
